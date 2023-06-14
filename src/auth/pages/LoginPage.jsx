@@ -1,13 +1,22 @@
+import { useContext } from "react";
 import { useNavigate } from "react-router-dom"
+import { AuthContext } from "../context/AuthContext";
 
 export const LoginPage = () => {
 
+  const { login } = useContext( AuthContext )
+  
   const navigate = useNavigate();
 
   const onLogin = () => {
-    navigate('/', {
+
+    // Si el localstorage tiene el valor de lastpath consiguelo y si no mandalo a la liga "/"
+    const lastpath = localStorage.getItem('lastPath') || '/';
+
+    login('Dave');
+    navigate(lastpath, {
       replace: true
-    })
+    });
   }
 
   return (
