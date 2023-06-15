@@ -5,13 +5,18 @@ Single Page Application about heroes of Marvel and DC.
 Here's the link to the website
 
 ### Mobile View
-Image 
+![mobile_view](./Assets//img/desktop-view.png) 
 
 ### Desktop View
-Image
+![mobile_view](./Assets//img/mobile-view.png) 
 
 ## Concepts applied
-
+- [x] Custom Hooks.
+- [x] Routing.
+- [x] Local Authentication.
+- [x] UseContext.
+- [x] Responsiveness.
+- [x] Components in React.
 
 ## Folder Structure
     .   ├── heroes-react
@@ -23,14 +28,11 @@ Image
                 ├── src                            # src Folder
                     ├── auth                       # Everything related to authentication
                     ├── heroes                     # Hero data/components/hooks/etc   
-                    ├── 03-examples                # Examples
-                    ├── 04-useRef                  # useRef hook
-                    ├── 05-useLayoutEffect         # useLayoutEffect hook
-                    ├── 06-memos                   # useMemo hook
-                    ├── 07-challenge               # Challenge
-                    ├── 08-useReducer              # useReducer hook
-                    ├── 09-useContext              # useContext hook
-                    ├── hooks                      # Custom Hooks
+                    ├── hooks                      # useForm for the search page
+                    ├── router                     # Private/Public routes
+                    ├── ui                         # NavBar Component
+                    ├── HeroesApp                  # Children Route from Main.jsx
+                    ├── Main                       # Father Route
 
 ## Future Improvements
 - [ ] Add a Backend.
