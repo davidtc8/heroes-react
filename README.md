@@ -30,10 +30,10 @@ Image
                     ├── hooks                      # Custom Hooks
 
 ## Future Improvements
-- [x] Add a Backend.
-- [x] Add more hero images and information.
-- [] Add an author section that links to my portfolio.
-- [] Add a authentication system through the login.
+- [] (Add a Backend.)
+- [] (Add more hero images and information.)
+- [] (Add an author section that links to my portfolio.)
+- [] (Add a authentication system through the login.)
 
 ## Credits
 Kudos to Fernando Herrera for his amazing react course in Udemy.
