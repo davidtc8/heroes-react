@@ -5,16 +5,16 @@ Single Page Application about heroes of Marvel and DC.
 [Live Demo](#live_demo)  
 [Concepts Applied](#concepts_applied)
 
-<a name="live_demo"/>
-## Live Demo
+## Live Demo <a name="live_demo"/>
 [Click Me!](https://heroes-react-dtc.netlify.app/)
+
 - ### Mobile View
 ![mobile_view](./Assets//img/mobile-view.png) 
 - ### Desktop View
 ![mobile_view](./Assets//img/desktop-view.png) 
 
-<a name="concepts_applied"/>
-## Concepts applied
+
+## Concepts applied <a name="concepts_applied"/>
 - [x] Custom Hooks.
 - [x] Routing.
 - [x] Local Authentication.
