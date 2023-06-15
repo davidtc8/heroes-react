@@ -1,4 +1,4 @@
-# heroes-react
+# Heroes of Marvel & DC React Application
 Single Page Application about heroes of Marvel and DC.
 
 ## Live Demo
