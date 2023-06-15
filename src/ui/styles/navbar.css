@@ -1,0 +1,9 @@
+.item_right {
+  position:absolute; right:0;
+}
+
+@media screen and (max-width: 600px) {
+  .item_right {
+    position:relative;
+  }
+}
