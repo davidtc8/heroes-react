@@ -14,12 +14,15 @@ Image
 
 
 ## Folder Structure
-    .   ├── hook-app
+    .   ├── heroes-react
+                ├── Assets                         # Images
+                    ├── img                        # ReadMe Imgs
                 ├── node_modules                   # NodeJS Modules
                 ├── public                         # Vite Public Files
+                    ├── heroes                     # Hero Images
                 ├── src                            # src Folder
-                    ├── 01-useState                # useState hook
-                    ├── 02-useEffect               # useEffect hook   
+                    ├── auth                       # Everything related to authentication
+                    ├── heroes                     # Hero data/components/hooks/etc   
                     ├── 03-examples                # Examples
                     ├── 04-useRef                  # useRef hook
                     ├── 05-useLayoutEffect         # useLayoutEffect hook
@@ -34,7 +37,6 @@ Image
 - [ ] Add more hero images and information.
 - [ ] Add an author section that links to my portfolio.
 - [ ] Add a authentication system through the login.
-- [ ] Mercury
 
 ## Credits
 Kudos to Fernando Herrera for his amazing react course in Udemy.
