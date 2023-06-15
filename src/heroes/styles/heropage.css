@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+
+    .card_width_responsive {
+        display: grid;
+        grid-template-columns: 10rem 5fr;
+        place-items: center;
+    }
+
+    .img_size {
+        width: 10rem;
+    }
+
+    .my_col {
+        float: left;
+        width: 100%;
+    }
+
+  }
