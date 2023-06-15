@@ -1,15 +1,19 @@
 # Heroes of Marvel & DC React Application
 Single Page Application about heroes of Marvel and DC.
 
+## Table of Contents  
+[Live Demo](#live_demo)  
+[Concepts Applied](#concepts_applied)
+
+<a name="live_demo"/>
 ## Live Demo
 [Click Me!](https://heroes-react-dtc.netlify.app/)
-
-### Mobile View
+- ### Mobile View
 ![mobile_view](./Assets//img/mobile-view.png) 
-
-### Desktop View
+- ### Desktop View
 ![mobile_view](./Assets//img/desktop-view.png) 
 
+<a name="concepts_applied"/>
 ## Concepts applied
 - [x] Custom Hooks.
 - [x] Routing.
@@ -17,6 +21,7 @@ Single Page Application about heroes of Marvel and DC.
 - [x] UseContext.
 - [x] Responsiveness.
 - [x] Components in React.
+
 
 ## Folder Structure
     .   ├── heroes-react
