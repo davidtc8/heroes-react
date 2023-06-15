@@ -5,10 +5,10 @@ Single Page Application about heroes of Marvel and DC.
 Here's the link to the website
 
 ### Mobile View
-![mobile_view](./Assets//img/desktop-view.png) 
+![mobile_view](./Assets//img/mobile-view.png) 
 
 ### Desktop View
-![mobile_view](./Assets//img/mobile-view.png) 
+![mobile_view](./Assets//img/desktop-view.png) 
 
 ## Concepts applied
 - [x] Custom Hooks.
