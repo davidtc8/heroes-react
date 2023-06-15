@@ -35,6 +35,7 @@ export const HeroPage = () => {
           src={`/heroes/${id}.jpg`}
           alt={hero.superhero}
           className="img-thumbnail"
+          style={{width: "100%"}}
         />
       </div>
 
